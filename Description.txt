@@ -1,0 +1,5 @@
+##
+The files in this repository deal with predicting the posibility of a customer to
+leave the bank found out using artificial neural networks.
+
+##
